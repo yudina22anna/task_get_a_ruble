@@ -9,7 +9,7 @@ public class Main {
         else {
             bonus = refill/100;
         }
-        int total_balance = balance + refill + bonus;
+        int totalBalance = balance + refill + bonus;
         System.out.println(total_balance);
     }
 }
